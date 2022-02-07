@@ -13,10 +13,15 @@ Prior to beginning the study, participants will fill out a series of questionnai
 
 ## Roadmap
 :arrow_right: Program experiment in Psychopy
+
 :arrow_right: Add EEG markers & pilot
+
 :arrow_right: Contact participants with previous MRI, recruit participants
+
 :arrow_right: Data collection
+
 :arrow_right: Scalp/source level analyses
+
 :arrow_right: Modeling & statistical tests of the effects of errors/error signals on next trial phase encoding in source localized data
  
 
