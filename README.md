@@ -33,13 +33,11 @@ Currently: programming experiment in Psychopy & setting up FaReT with Psychopy t
 ## Contributors
 | Name | Role |
 | ---  | ---  |
-| insert team member | add team member's role |
-| insert team member | add team member's role |
-| insert team member | add team member's role |
+| Emily R. Martin | Project Administration |
+| George A. Buzzell | Supervision |
+| Fabian A. Soto | Supervision |
 
 Learn more about us [here](www.ndclab.com/people).
 
 ## Contributing
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-:point_right: Keep the "Contributing" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
