@@ -1,10 +1,10 @@
 # [Oops Faces: NDC-CCN Collaboration]
 
 ## Project Goal
-Build on a prior study (Buzzell et al., 2017) that showed after detecting an error, there is a brief reduction in stimulus-evoked activity for the following trial when the RSI is small, applying a face encoding model with varied emotional valence.
+Build on a prior study [(Buzzell et al., 2017)](https://www.jneurosci.org/content/jneuro/early/2017/02/13/JNEUROSCI.1202-16.2017.full.pdf?versioned=true) that showed after detecting an error, there is a brief reduction in stimulus-evoked activity for the following trial when the RSI is small, applying a face encoding model with varied emotional valence.
 
 ## Background & Design
-Previous work in stimulus discrimination research has found that error detection reduces stimulus-evoked activity for the next trial when the RSI is small, but not when the RSI is large (Buzzell et al., 2017; see also: Beatty, Buzzell et al., 2019). We will test this finding in the context of face encoding while varying emotional valence with undergraduates recruited from Florida International University, while keeping our future goals in mind of studying how this mechanism may differ across individuals (specifically adolescents) with social anxiety. We quantify stimulus-evoked activity through EEG signals with source localization from MRI. 
+Previous work in stimulus discrimination research has found that error detection reduces stimulus-evoked activity for the next trial when the RSI is small, but not when the RSI is large [(Buzzell et al., 2017)](https://www.jneurosci.org/content/jneuro/early/2017/02/13/JNEUROSCI.1202-16.2017.full.pdf?versioned=true). We will test this finding in the context of face encoding while varying emotional valence with undergraduates recruited from Florida International University, while keeping our future goals in mind of studying how this mechanism may differ across individuals (specifically adolescents) with social anxiety. We quantify stimulus-evoked activity through EEG signals with source localization from MRI. 
 
 Stimuli will be created using FaReT, a recent open source toolbox to create realistic computerized face models. See FaReT [here](https://github.com/fsotoc/FaReT).
 
