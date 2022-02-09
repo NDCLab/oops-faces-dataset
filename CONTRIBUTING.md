@@ -1,4 +1,4 @@
-# Contributing to [project name]
+# Contributing to [Oops Faces: NDC-CCN Collaboration]
 
 ## Overview
 Please note our general guidelines for contributing to NDCLab projects [here](https://ndclab.github.io/wiki/docs/contributing.html).
@@ -13,14 +13,11 @@ Please note our general guidelines for contributing to NDCLab projects [here](ht
 ## Roadmap
 Please see the roadmap available on the [README.md](README.md) file of this repository.
 
-:point_right: Keep the "Roadmap" text above but update the link to the `readme` for your repo. And, of course, delete this note before publishing the contributing file.
-
 
 ## Directory Structure
-:point_right: Update this section as appropriate for your repo, then delete this note before publishing.
 
 ```yml
-project-name
+Oops Faces: NDC-CCN Collaboration
 ├── code
 ├── containers
 ├── CONTRIBUTING.md
