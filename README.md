@@ -37,7 +37,7 @@ Currently: programming experiment in Psychopy & setting up FaReT with Psychopy t
 | George A. Buzzell | Supervision |
 | Fabian A. Soto | Supervision |
 
-Learn more about us [here](www.ndclab.com/people)
+Learn more about us [here](www.ndclab.com/people).
 
 ## Contributing
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
