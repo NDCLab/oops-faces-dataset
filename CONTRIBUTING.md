@@ -1,4 +1,4 @@
-# Contributing to [project name]
+# Contributing to Oops Faces
 
 ## Overview
 Please note our general guidelines for contributing to NDCLab projects [here](https://ndclab.github.io/wiki/docs/contributing.html).
@@ -13,14 +13,11 @@ Please note our general guidelines for contributing to NDCLab projects [here](ht
 ## Roadmap
 Please see the roadmap available on the [README.md](README.md) file of this repository.
 
-:point_right: Keep the "Roadmap" text above but update the link to the `readme` for your repo. And, of course, delete this note before publishing the contributing file.
-
 
 ## Directory Structure
-:point_right: Update this section as appropriate for your repo, then delete this note before publishing.
 
 ```yml
-project-name
+oops-faces-dataset
 ├── code
 ├── containers
 ├── CONTRIBUTING.md
@@ -46,7 +43,7 @@ project-name
 ```
 
 ### Container
-To ensure reproducibility of results and software, a default docker file and singularity container are included with this template repository. The respective [README.md](README.me) contains a comprehensive guide on how to get started with the dockerfile. A step-by-step guide to getting started also included in the following [video](https://www.youtube.com/watch?v=oO8n3y23b6M). 
+To ensure reproducibility of results and software, a default docker file and singularity container will be included with this template repository. The respective [README.md](README.md) will contain a comprehensive guide on how to get started with the dockerfile. A step-by-step guide to getting started also included in the following [video](https://www.youtube.com/watch?v=oO8n3y23b6M). 
 
 
 ## Workflow
