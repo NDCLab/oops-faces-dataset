@@ -1,4 +1,4 @@
-# [Oops Faces: NDC-CCN Collaboration]
+# Oops Faces: NDC-CCN Collaboration
 
 ## Project Goal
 Build on a prior study [(Buzzell et al., 2017)](https://www.jneurosci.org/content/jneuro/early/2017/02/13/JNEUROSCI.1202-16.2017.full.pdf?versioned=true) that showed after detecting an error, there is a brief reduction in stimulus-evoked activity for the following trial when the response-stimulus interval (RSI) is small (i.e., when the time between the trials is approximately a few hundred milliseconds). We are interested in testing this finding when face models are presented with varied emotional valences.
@@ -24,8 +24,8 @@ This `main` branch contains completed releases for this project. For all work-in
 | Name | Role |
 | ---  | ---  |
 | Emily R. Martin | Project Administration |
-| George A. Buzzell | Supervision |
-| Fabian A. Soto | Supervision |
+| [George A. Buzzell](http://www.ndclab.com/george-buzzell/) | Supervision |
+| [Fabian A. Soto](https://ccnlab.fiu.edu/People.html) | Supervision |
 
 Learn more about us [here](https://www.ndclab.com/people).
 
