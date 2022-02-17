@@ -1,4 +1,4 @@
-# Contributing to [Oops Faces: NDC-CCN Collaboration]
+# Contributing to Oops Faces
 
 ## Overview
 Please note our general guidelines for contributing to NDCLab projects [here](https://ndclab.github.io/wiki/docs/contributing.html).
@@ -17,7 +17,7 @@ Please see the roadmap available on the [README.md](README.md) file of this repo
 ## Directory Structure
 
 ```yml
-Oops Faces: NDC-CCN Collaboration
+oops-faces-dataset
 ├── code
 ├── containers
 ├── CONTRIBUTING.md
