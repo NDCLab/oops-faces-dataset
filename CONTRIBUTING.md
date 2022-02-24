@@ -43,7 +43,7 @@ oops-faces-dataset
 ```
 
 ### Container
-To ensure reproducibility of results and software, a default docker file and singularity container will be included with this template repository. The respective [README.md](README.md) will contain a comprehensive guide on how to get started with the dockerfile. A step-by-step guide to getting started also included in the following [video](https://www.youtube.com/watch?v=oO8n3y23b6M). 
+To facilitate reproducibility of results and software, a docker file and singularity recipe will be included with this repository. However, the docker file and singularity recipe currently included in this repository are only templates. Similarlly the respective [README.md](README.md) files included refer only to these templates, to include a comprehensive guide on how to get started. A step-by-step guide to getting started also included in the following [video](https://www.youtube.com/watch?v=oO8n3y23b6M). 
 
 
 ## Workflow
