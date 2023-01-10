@@ -6,4 +6,4 @@ The 'Main' subfolder will house the fully launched experiment materials (i.e., q
 
 Eventually data and analysis scripts will be uploaded in OSF, and the link will become available here (est. Q3 2023).
 
-PROTOCOL: Find the current status of the study protocol [here](https://docs.google.com/document/d/1JSnoNzjMhNn-khkWsXhJ1zhv2EAdegte0nM2Lwl89iM/edit?usp=sharing)
+PROTOCOL: Find the current study protocol [here](https://docs.google.com/document/d/1JSnoNzjMhNn-khkWsXhJ1zhv2EAdegte0nM2Lwl89iM/edit?usp=sharing).
