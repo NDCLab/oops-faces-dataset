@@ -34,9 +34,9 @@ This folder contains the questionnaires data dictionary (exported directly from 
 
 *After practice, before trials start*
 
-14.) Stai5 (State only)
+14.) Stai5 (State only) - E1
 
-15.) Bmis
+15.) Bmis - E1
 
 *After experiment concludes*
 
