@@ -12,7 +12,8 @@ Prior to beginning the study, participants fill out a series of questionnaires t
 
 
 ## Roadmap
-**Release 1:** Anticipated Q3 2022
+Pilot Study Launched January 2023
+** Data Release 1:** Anticipated Q3 2023
  
 
 
