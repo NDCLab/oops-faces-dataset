@@ -1,4 +1,4 @@
-### Welcome to Materials!
+### Materials
 
 The 'Pilot' subfolder houses the pilot materials (i.e., questionnaires administered, program folder).
 
