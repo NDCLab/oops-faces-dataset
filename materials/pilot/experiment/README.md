@@ -6,3 +6,5 @@ Feel free to contact Emily (ylimerm3) via Github or [E-mail](Mailto:emart459@fiu
 
 NOTE: You will need to comment out the EEG port / markers code to run without EEG. You will also need to install [Makehuman (v1.2.0)](http://www.makehumancommunity.org/content/makehuman_120.html) and [FaReT](https://github.com/fsotoc/FaReT) in order to run the experiment.
 Then, open a "Socket Render" (under Rendering in Makehuman) *before* you start the Psychopy experiment.
+
+*of-a is the titration task completed without EEG before EEG setup (to find expression intensity values that will yield ~80% accuracy in part b). of-b is the main EEG experiment.
