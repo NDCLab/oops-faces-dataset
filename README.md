@@ -14,12 +14,7 @@ Prior to beginning the study, participants fill out a series of questionnaires t
 ## Roadmap
 Pilot Study Launched January 2023
 
-** Data Release 1:** Anticipated Q3 2023
- 
-
-
-## Work in Development
-This `main` branch contains completed releases for this project. For all work-in-progress, please switch over to the `dev` branches.
+**Data Release 1:** Anticipated Q3 2023
 
 
 ## Contributors
