@@ -1,0 +1,25 @@
+﻿variable,description,detail,allowedSuffix,valueType,allowedValues,valueInfo,naValueType,activeStatus,replacement,provenance
+panasnow_i1,"PANASNOW, question 1",interested,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i2,"PANASNOW, question 2",distressed,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i3,"PANASNOW, question 3",excited,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i4,"PANASNOW, question 4",upset,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i5,"PANASNOW, question 5",strong,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i6,"PANASNOW, question 6",guilty,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i7,"PANASNOW, question 7",scared,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i8,"PANASNOW, question 8",hostile,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i9,"PANASNOW, question 9",enthusiastic,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i10,"PANASNOW, question 10",proud,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i11,"PANASNOW, question 11",irritable,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i12,"PANASNOW, question 12",alert,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i13,"PANASNOW, question 13",ashamed,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i14,"PANASNOW, question 14",inspired,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i15,"PANASNOW, question 15",nervous,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i16,"PANASNOW, question 16",determined,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i17,"PANASNOW, question 17",attentive,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i18,"PANASNOW, question 18",jittery,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i19,"PANASNOW, question 19",active,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_i20,"PANASNOW, question 20",afraid,s1_r1_e1,Integer,"1, 2, 3, 4, 5","1, very slightly or not at all | 2, a little | 3, moderately | 4, quite a bit | 5, extremely",NA,1,NA,direct-redcap
+panasnow_scrdPA,PANASNOW positive affect score,"sum of panasnow items 1, 3, 5, 9, 10, 12, 14, 16, 17, and 19 (NA if panasnow_percPA < 1)",s1_r1_e1,Integer,"[10,50]",NA,NA,1,NA,code-instruments
+panasnow_scrdNA,PANASNOW negative affect score,"sum of panasnow 2, 4, 6, 7, 8, 11, 13, 15, 18, and 20 (NA if panasnow_percNA < 1)",s1_r1_e1,Integer,"[10,50]",NA,NA,1,NA,code-instruments
+panasnow_percPA,PANASNOW positive affect percentage response,percentage of response for panasnow positive affect score (NA if all items are blank),s1_r1_e1,Real,"[0,1]",NA,NA,1,NA,code-instruments
+panasnow_percNA,PANASNOW negative affect percentage response,percentage of response for panasnow negative affect score (NA if all items are blank),s1_r1_e1,Real,"[0,1]",NA,NA,1,NA,code-instruments
