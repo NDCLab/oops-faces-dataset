@@ -1,4 +1,5 @@
-
+cluster = parcluster('local');
+parpool(cluster, str2num(getenv('SLURM_CPUS_ON_NODE')))
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This script was created by George Buzzell for the NDC Lab EEG Training
