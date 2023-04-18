@@ -1,25 +1,26 @@
 ﻿variable,description,detail,allowedSuffix,valueType,allowedValues,valueInfo,naValueType,activeStatus,replacement,provenance
-participant,participant id,participant id that is manually entered at start of task,s1_r1_e1,integer,"[240000,249999]",NA,NA,1,NA,direct-psychopy
-which button yes,counterbalance,participant counterbalance that is manually entered at start of task,s1_r1_e1,char,"""left"",""right""","""left"", different emotional intensity of the faces=left key | ""right"", different emotional intensity of the faces=right key",NA,1,NA,direct-psychopy
-date,date,date when task was run. auto-populated when task run,s1_r1_e1,date,NA,NA,NA,1,NA,direct-psychopy
-psychopyVersion,psychopy version,psychopy version used to run experiment. auto-populated when task run,s1_r1_e1,char,version number,NA,NA,1,NA,direct-psychopy
-frameRate,frame rate,framerate used to run experiment. auto-populated when task run,s1_r1_e1,real,"[0,inf]",NA,NA,1,NA,direct-psychopy
-trials_4.thisN,trial number (practice),denotes trial number in the practice block,s1_r1_e1,integer,"[0,83]",NA,NA,1,NA,direct-psychopy
-key_resp_12.keys,response values (practice),vector of response values corresponding to all responses made during the response window on the current trial of practice,s1_r1_e1,vector of char,"""1"",""8""",NA,NA,1,NA,direct-psychopy
-key_resp_12.corr,trial accuracy (practice),accuracy of the first response provided on a practice trial,s1_r1_e1,logical,"0,1",0=error | 1=correct,NA,1,NA,direct-psychopy
-key_resp_12.rt,reaction time values (practice),vector of reaction times corresponding to all responses made during the response window on the current trial of practice,s1_r1_e1,vector of real,"[0,inf]",NA,NA,1,NA,direct-psychopy
-accuracy,practice overall accuracy,averaged accuracy during the practice denoted by a single value,s1_r1_e1,real,"[0,100]",NA,NA,1,NA,direct-psychopy
-trials_5.thisTrialN,block number (main),denotes block number in the main task,s1_r1_e1,integer,"[0,15]",NA,NA,1,NA,direct-psychopy
-trials.thisN,trial number (main),denotes trial number within a single block in the main task,s1_r1_e1,integer,"[0,83]",NA,NA,1,NA,direct-psychopy
-key_resp_6.keys,response values (main),vector of response values corresponding to all responses made during the response window on the current trial of main task,s1_r1_e1,vector of char,"""1"",""8""",NA,NA,1,NA,direct-psychopy
-key_resp_6.corr,trial accuracy (main),accuracy of the first response provided on a main trial,s1_r1_e1,logical,"0,1",0=error | 1=correct,NA,1,NA,direct-psychopy
-key_resp_6.rt,reaction time values (main),vector of reaction times corresponding to all responses made during the response window on the current trial of main task,s1_r1_e1,vector of real,"[0,inf]",NA,NA,1,NA,direct-psychopy
-isi,isi,"inter stimulus interval, corresponding to the time in seconds between the two stimuli",s1_r1_e1,real,"[.4,.7]",NA,NA,1,NA,direct-psychopy
-iti,iti,"inter trial interval, also known as response stimulus interval, corresponding to the time in seconds between the response of the current trial and first stimulus of the next trial",s1_r1_e1,real,"[1,1.3]",NA,NA,1,NA,direct-psychopy
-stim,target (same or different trial),whether the pair of faces presented is identical or different in expression level,s1_r1_e1,char,"""same"",""different""",NA,NA,1,NA,direct-psychopy
-em,emotion ,which emotion the pair of faces are within a trial,s1_r1_e1,char,"""happy"",""anger""",NA,NA,1,NA,direct-psychopy
-image_size2,second image size,"dimension in X,Y format of the second stimulus's size. The first stimulus is always the same size",s1_r1_e1,tuple of real,"(453, 339.75), (613, 459.75)","(453,339.75)=smaller image | (613, 459.75)=larger image",NA,1,NA,direct-psychopy
-imagepath2,first image directory,path to the first image displayed in the main task,s1_r1_e1,char,path names,path name,NA,1,NA,direct-psychopy
-imagepath,second image directory,path to the second image displayed in the main task,s1_r1_e1,char,path names,path name,NA,1,NA,direct-psychopy
-happy titrated value,happy titrated value,the expression intensity level that yields approximately 80% overall accuracy for happiness,s1_r1_e1,integer,"[-inf,inf]",NA,NA,1,NA,direct-psychopy
-anger titrated value,anger titrated value,the expression intensity level that yields approximately 80% overall accuracy for anger,s1_r1_e1,integer,"[-inf,inf]",NA,NA,1,NA,direct-psychopy
+participant,participant id,participant id that is manually entered at start of task,NA,integer,"[240000,249999]",NA,NA,1,NA,direct-psychopy
+which button yes,counterbalance,participant counterbalance that is manually entered at start of task,"s1_r1_e1, s1_r2_e1",char,"""left"",""right""","""left"", different emotional intensity of the faces=left key | ""right"", different emotional intensity of the faces=right key",NA,1,NA,direct-psychopy
+date,date,date when task was run. auto-populated when task run,"s1_r1_e1, s1_r2_e1",date,NA,NA,NA,1,NA,direct-psychopy
+session,session,which session (1 or 2 for main experiment),"s1_r1_e1, s1_r2_e1",,,,,,,
+psychopyVersion,psychopy version,psychopy version used to run experiment. auto-populated when task run,"s1_r1_e1, s1_r2_e1",char,version number,NA,NA,1,NA,direct-psychopy
+frameRate,frame rate,framerate used to run experiment. auto-populated when task run,"s1_r1_e1, s1_r2_e1",real,"[0,inf]",NA,NA,1,NA,direct-psychopy
+trials_4.thisN,trial number (practice),denotes trial number in the practice block,"s1_r1_e1, s1_r2_e1",integer,"[0,83]",NA,NA,1,NA,direct-psychopy
+key_resp_12.keys,response values (practice),vector of response values corresponding to all responses made during the response window on the current trial of practice,"s1_r1_e1, s1_r2_e1",vector of char,"""1"",""8""",NA,NA,1,NA,direct-psychopy
+key_resp_12.corr,trial accuracy (practice),accuracy of the first response provided on a practice trial,"s1_r1_e1, s1_r2_e1",logical,"0,1",0=error | 1=correct,NA,1,NA,direct-psychopy
+key_resp_12.rt,reaction time values (practice),vector of reaction times corresponding to all responses made during the response window on the current trial of practice,"s1_r1_e1, s1_r2_e1",vector of real,"[0,inf]",NA,NA,1,NA,direct-psychopy
+accuracy,practice overall accuracy,averaged accuracy during the practice denoted by a single value,"s1_r1_e1, s1_r2_e1",real,"[0,100]",NA,NA,1,NA,direct-psychopy
+trials_5.thisTrialN,block number (main),denotes block number in the main task,"s1_r1_e1, s1_r2_e1",integer,"[0,15]",NA,NA,1,NA,direct-psychopy
+trials.thisN,trial number (main),denotes trial number within a single block in the main task,"s1_r1_e1, s1_r2_e1",integer,"[0,83]",NA,NA,1,NA,direct-psychopy
+key_resp_6.keys,response values (main),vector of response values corresponding to all responses made during the response window on the current trial of main task,"s1_r1_e1, s1_r2_e1",vector of char,"""1"",""8""",NA,NA,1,NA,direct-psychopy
+key_resp_6.corr,trial accuracy (main),accuracy of the first response provided on a main trial,"s1_r1_e1, s1_r2_e1",logical,"0,1",0=error | 1=correct,NA,1,NA,direct-psychopy
+key_resp_6.rt,reaction time values (main),vector of reaction times corresponding to all responses made during the response window on the current trial of main task,"s1_r1_e1, s1_r2_e1",vector of real,"[0,inf]",NA,NA,1,NA,direct-psychopy
+isi,isi,"inter stimulus interval, corresponding to the time in seconds between the two stimuli","s1_r1_e1, s1_r2_e1",real,"[.4,.7]",NA,NA,1,NA,direct-psychopy
+iti,iti,"inter trial interval, also known as response stimulus interval, corresponding to the time in seconds between the response of the current trial and first stimulus of the next trial","s1_r1_e1, s1_r2_e1",real,"[1,1.3]",NA,NA,1,NA,direct-psychopy
+stim,target (same or different trial),whether the pair of faces presented is identical or different in expression level,"s1_r1_e1, s1_r2_e1",char,"""same"",""different""",NA,NA,1,NA,direct-psychopy
+em,emotion ,which emotion the pair of faces are within a trial,"s1_r1_e1, s1_r2_e1",char,"""happy"",""anger""",NA,NA,1,NA,direct-psychopy
+image_size2,second image size,"dimension in X,Y format of the second stimulus's size. The first stimulus is always the same size","s1_r1_e1, s1_r2_e1",tuple of real,"(453, 339.75), (613, 459.75)","(453,339.75)=smaller image | (613, 459.75)=larger image",NA,1,NA,direct-psychopy
+imagepath2,first image directory,path to the first image displayed in the main task,"s1_r1_e1, s1_r2_e1",char,path names,path name,NA,1,NA,direct-psychopy
+imagepath,second image directory,path to the second image displayed in the main task,"s1_r1_e1, s1_r2_e1",char,path names,path name,NA,1,NA,direct-psychopy
+happy titrated value,happy titrated value,the expression intensity level that yields approximately 80% overall accuracy for happiness,"s1_r1_e1, s1_r2_e1",integer,"[-inf,inf]",NA,NA,1,NA,direct-psychopy
+anger titrated value,anger titrated value,the expression intensity level that yields approximately 80% overall accuracy for anger,"s1_r1_e1, s1_r2_e1",integer,"[-inf,inf]",NA,NA,1,NA,direct-psychopy
