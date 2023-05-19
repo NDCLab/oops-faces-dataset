@@ -1,0 +1,12 @@
+﻿variable,description,detail,allowedSuffix,valueType,allowedValues,valueInfo,naValueType,activeStatus,replacement,provenance
+esi_i1,"ESI, question 1","When I notice a mistake I made, I feel upset.",s1_r1_e1,Integer,"1, 2, 3","1, not at all | 2, somewhat | 3, a lot",NA,1,NA,direct-redcap
+esi_i2,"ESI, question 2",My stomach feels sick when I make a mistake.,s1_r1_e1,Integer,"1, 2, 3","1, not at all | 2, somewhat | 3, a lot",NA,1,NA,direct-redcap
+esi_i3,"ESI, question 3","If I make a mistake, I always want to fix it.",s1_r1_e1,Integer,"1, 2, 3","1, not at all | 2, somewhat | 3, a lot",NA,1,NA,direct-redcap
+esi_i4,"ESI, question 4","When someone notices I did something wrong, I feel upset.",s1_r1_e1,Integer,"1, 2, 3","1, not at all | 2, somewhat | 3, a lot",NA,1,NA,direct-redcap
+esi_i5,"ESI, question 5",I am afraid of making mistakes in front of other people.,s1_r1_e1,Integer,"1, 2, 3","1, not at all | 2, somewhat | 3, a lot",NA,1,NA,direct-redcap
+esi_i6,"ESI, question 6",I like to do things perfectly.,s1_r1_e1,Integer,"1, 2, 3","1, not at all | 2, somewhat | 3, a lot",NA,1,NA,direct-redcap
+esi_i7,"ESI, question 7",I feel upset when other people don't like something I have done.,s1_r1_e1,Integer,"1, 2, 3","1, not at all | 2, somewhat | 3, a lot",NA,1,NA,direct-redcap
+esi_i8,"ESI, question 8","When I make a mistake, I feel anxious.",s1_r1_e1,Integer,"1, 2, 3","1, not at all | 2, somewhat | 3, a lot",NA,1,NA,direct-redcap
+esi_i9,"ESI, question 9","When I make a mistake, I start sweating or blushing.",s1_r1_e1,Integer,"1, 2, 3","1, not at all | 2, somewhat | 3, a lot",NA,1,NA,direct-redcap
+esi_scrdTotal,ESI total score,sum of all esi items (NA if esi_percTotal < 1),s1_r1_e1,Integer,"[9,36]",NA,NA,1,NA,code-instruments
+esi_percTotal,ESI percentage response,percentage of response for esi items (NA if all items are blank),s1_r1_e1,Real,"[0,1]",NA,NA,1,NA,code-instruments
